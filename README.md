@@ -1,65 +1,51 @@
-<h1 align="center">Carlos Aguiar</h1>
-<p align="center">Desenvolvedor de Jogos — Roblox / Lua · Automação em Python & JavaScript</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
+# 🎮 Hi, I'm Carlos Aguiar 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-Carlos__x810-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</p>
+**Game Developer & Founder at Diamond Game Works**  
+*Building immersive environments, scalable systems, and mechanics in Roblox Studio.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://github.com/AguiarCarlos)
+
+</div>
 
 ---
 
-## Sobre
+### 🚀 About Me
 
-Desenvolvo jogos e sistemas para **Roblox** utilizando **Lua**, e construo automações e bots em **Python** e **JavaScript/Node.js**. Meu foco está em resolver problemas até a causa raiz, com código funcional e bem estruturado.
-
-**Áreas de atuação:**
-- Scripting em Lua para Roblox (mecânicas de jogo, sistemas de combate, animações)
-- Bots para Discord (discord.py, Discord.js v14) — tickets, hierarquia de cargos, automações
-- Ferramentas web e dashboards (HTML/JS)
+* 🛠️ **Founder & Lead Developer** at **Diamond Game Works**, creating systems and games for Roblox.
+* 💻 Specialized in **Luau / Lua** for complex gameplay mechanics, UI systems, and backend logic.
+* 🐍 Experienced with **Python** and **JavaScript** for scripting, automation, and web integrations.
+* 📐 Focused on scalable code architectures, realistic environments, and high-performance game design.
 
 ---
 
-## Stack
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,roblox,python,js,nodejs,discordjs,html,css,git,github,vscode" />
-</p>
-
----
-
-## Projetos em destaque
-
-**Sistema de Armas — Roblox/Lua**
-Sistema de tiro com controle de animações por prioridade e correção de bugs de disparo duplo.
-
-**Bot de Gerenciamento — Discord (Python/Node.js)**
-Sistema de tickets, hierarquia de cargos e ponto automático com lógica de promoção, para servidor de roleplay.
-
-**Dashboard Financeiro**
-Painel de transparência financeira com auditoria de pagamentos e geração de relatórios em PDF.
+| Domain | Tech / Tools |
+| :--- | :--- |
+| **Primary Language** | Luau (Roblox Engine / Lua 5.1+) |
+| **Secondary Languages** | Python, JavaScript |
+| **Game Development** | Roblox Studio, UI/UX Design, System Architecture |
+| **Tools & Version Control** | Git, GitHub, Rojo, VS Code |
 
 ---
 
-## Estatísticas
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AguiarCarlos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarCarlos&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AguiarCarlos&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguiarCarlos&layout=compact&theme=dark&hide_border=true&hide=html,css" height="150" alt="Top Languages" />
+
+</div>
 
 ---
 
-## Contato
+<div align="center">
 
-<p align="center">
-  <a href="https://discord.com/users/Carlos_x810">
-    <img src="https://img.shields.io/badge/Discord-Carlos__x810-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+🤝 Open for collaborations on game systems, architecture, and Luau tooling.  
+*Let's build something awesome together.*
+
+</div>
