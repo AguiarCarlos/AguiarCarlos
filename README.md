@@ -9,6 +9,9 @@ Engenharia de gameplay, sistemas interativos e arquitetura de funcionalidades.
 <br>
 
 ![Luau](https://img.shields.io/badge/Lua%20%2F%20Luau-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,6 +48,8 @@ Atuo na concepção e implementação de sistemas de jogo, no desenvolvimento de
 | Tecnologia | Aplicação |
 | :--- | :--- |
 | Lua / Luau | Scripts, sistemas e lógica de gameplay |
+| C# | Programação de gameplay e sistemas na Unity |
+| Java | Desenvolvimento de software e lógica de aplicações |
 | JavaScript | Lógica e interatividade |
 | HTML5 | Estrutura de aplicações e interfaces |
 | CSS3 | Estilização e design de interfaces |
@@ -53,6 +58,7 @@ Atuo na concepção e implementação de sistemas de jogo, no desenvolvimento de
 
 | Ferramenta | Aplicação |
 | :--- | :--- |
+| Unity | Desenvolvimento de jogos e sistemas interativos |
 | Roblox Studio | Desenvolvimento e publicação de experiências interativas |
 
 ---
